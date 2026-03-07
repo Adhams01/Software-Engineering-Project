@@ -12,3 +12,6 @@ Thumbs.db
 
 # Backup snapshots (cause long Windows paths)
 **/src-backup_*/
+
+# Maven/Java build output
+**/target/
